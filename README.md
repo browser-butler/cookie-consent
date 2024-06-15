@@ -1,2 +1,2 @@
-# cookie-consent-rules
-Browser Butler Cookie Consent Rules
+# cookie-consent
+Browser Butler Cookie Consent
